@@ -25,8 +25,8 @@ export default function HeroSection() {
           Urban Oasis, Greenery
         </span>
         <h1 className="font-serif text-3xl font-bold tracking-tight text-cream sm:text-5xl lg:text-6xl leading-tight md:leading-snug max-w-3xl mb-6 animate-slide-up">
-          당신의 공간에 <br className="sm:hidden" />
-          <span className="text-sage-light">초록빛 숨결</span>을 불어넣으세요
+          당신의 공간에 <span className="text-sage-light">초록빛 숨결</span>을 <br />
+          불어넣으세요
         </h1>
         <p className="mx-auto max-w-2xl text-base md:text-lg text-cream/80 mb-10 leading-relaxed animate-slide-up font-light">
           지친 일상에 편안한 휴식을 주는 나만의 반려 식물.<br/>
